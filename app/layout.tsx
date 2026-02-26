@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "TIMMMY Titenok",
+  title: "TIMMMY TITENOK",
   description:
     "I build and ship real products. Sterling Dialer • Stratova.",
 };
