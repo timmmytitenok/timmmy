@@ -39,13 +39,7 @@ export default function Home() {
             className="mt-8 max-w-md text-base text-zinc-500 sm:text-lg unblur-in"
             style={{ animationDelay: "300ms" }}
           >
-            I build and ship real products.
-          </p>
-          <p
-            className="mt-1 text-sm text-zinc-600 unblur-in"
-            style={{ animationDelay: "450ms" }}
-          >
-            Sterling Dialer • Stratova
+            From idea → users → revenue.
           </p>
         </header>
 
@@ -60,22 +54,23 @@ export default function Home() {
               style={{ animationDelay: "600ms" }}
             >
               <LinkItem
-                href="https://stratovabuilds.com/"
-                title="STRATOVA"
-                description="Custom-coded Shopify storefronts"
+                href="https://sterlingdialer.com/"
+                title="STERLING DIALER"
+                description="AI dialer for Insurance Agents"
                 variant="project"
               />
             </div>
             <div
-              className="unblur-in"
+              className="unblur-in relative rounded-xl border-l-2 border-transparent bg-white/[0.02] px-5 py-6"
               style={{ animationDelay: "750ms" }}
             >
-              <LinkItem
-                href="https://sterlingdialer.com/"
-                title="STERLING DIALER"
-                description="AI dialer for insurance agents"
-                variant="project"
-              />
+              <span className="absolute right-4 top-4 text-[10px] font-medium uppercase tracking-widest text-zinc-500">
+                COMING SOON
+              </span>
+              <span className="block font-medium text-white">CONVERSIA AI</span>
+              <p className="mt-1 text-sm text-zinc-500">
+                  AI Qualifies leads & books appointments
+              </p>
             </div>
           </div>
         </nav>

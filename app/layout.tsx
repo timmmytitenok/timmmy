@@ -11,7 +11,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "TIMMMY TITENOK",
   description:
-    "I build and ship real products. Sterling Dialer • Stratova.",
+    "From idea → users → revenue.",
 };
 
 export default function RootLayout({
