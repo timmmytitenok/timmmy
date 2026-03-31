@@ -67,9 +67,9 @@ export default function Home() {
               <span className="absolute right-4 top-4 text-[10px] font-medium uppercase tracking-widest text-zinc-500">
                 COMING SOON
               </span>
-              <span className="block font-medium text-white">CONVERSIA AI</span>
+              <span className="block font-medium text-white">CALBANK</span>
               <p className="mt-1 text-sm text-zinc-500">
-                  AI Qualifies leads & books appointments
+                A better way to track calories
               </p>
             </div>
           </div>
